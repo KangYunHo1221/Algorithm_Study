@@ -1,8 +1,8 @@
 # 알고리즘 문제풀이
 
 
-<img src="https://img.shields.io/badge/백준?style=round-square&logo=BookStack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/프로그래머스?style=round-square&logo=BookStack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Baekjoon?style=round-square&logo=BookStack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Programmers?style=round-square&logo=BookStack&logoColor=white"/></a>
 
 
 ## Features
