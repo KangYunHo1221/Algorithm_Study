@@ -1,5 +1,8 @@
-# TIL__CoTe_Algo_Study
-coding test and alorithm and serverel things..
+#
+
+백준과 프로그래머스등 알고리즘 문제풀이
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 <<<<<<< HEAD
 from 21.08.14
